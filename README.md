@@ -2,7 +2,7 @@
 
 ### I am a MITSUKAWA
 
-<!-- - 🔭 I’m currently working on Yamaguchi University -->
+- ⚙  I'm currently working on embedded engneer (In-vihicle system) 
 - 🌱 I’m currently learning Deep learning at university
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ...
@@ -46,7 +46,7 @@ ___
 <!-- If you want more idea https://github.com/abhisheknaiidu/awesome-github-profile-readme
  -->
 <!-- For better  -->
-#![Thanawit Gerdprasert's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitukawa&show_icons=true&theme=merko&count_private=true)
+#![Yuji Mitsukawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitukawa&show_icons=true&theme=merko&count_private=true)
 
 
 <!-- Change username= to your username -->
